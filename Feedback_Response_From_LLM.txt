@@ -1,0 +1,665 @@
+1. Student 1 Response: 75 + 5p > = 386. I got p > = 62.2, so I rounded up to 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: 75 + 5p > = 386, 5p > = 386 - 75 = 311, p > = 311/5 = 62.2, and rounding up to 63 pies.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified.
+--------------------------------------------------
+
+2. Student 2 Response: 75 + 5p > = 386. 5p > = 311. p > = 311/5 = 62.2. So, p > = 62. Check: 75 + 5*62 = 385. Yes, they have enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(0/4): The reasoning for concluding they have enough money is incorrect. Since 75 + 5*62 = 385 and 385 < 386, selling exactly 62 pies will not raise enough money for the field trip. They need to sell at least 63 pies.
+--------------------------------------------------
+
+5. Student 5 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. so p > = 311/5 = 62.2. so p > = 63 pies. 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing 311 by 5 to get 62.2 and then rounding up to the nearest whole number since the number of pies must be a whole number.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification that selling exactly 62 pies will not raise enough money for the field trip is correct.
+--------------------------------------------------
+
+6. Student 6 Response: 75 + 5p > = 386. Then 5p > = 386 - 75 = 311, so p > = 311/5 = 62.2, so p > = 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly subtracting 75 from both sides and then dividing by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and concluding that 62 pies does not meet the requirement is correct, as selling exactly 62 pies would yield $385, which is less than the $386 needed.
+--------------------------------------------------
+
+7. Student 7 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, so they need at least 63.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+8. Student 8 Response: 5p > = 386. p > = 386/5 = 77.2. They need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+9. Student 9 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+10. Student 10 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. so p > = 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing 311 by 5 to get 62.2 and then rounding up to the nearest whole number since the number of pies must be a whole number.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and concluding that 62 pies will not meet the requirement is correct, as shown by the check: 75 + 5(62) = 385, which is less than 386.
+--------------------------------------------------
+
+12. Student 12 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+13. Student 13 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 385 is less than 386, so 62 pies is not enough. They must sell at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including the subtraction of 75 from both sides and the division by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+14. Student 14 Response: 75 + 5p > = 386. 5p > = 386 - 75. 5p > = 311. p > = 311/15 = 62.2. Since you can't sell 0.2 of a pie, they need at least 63 pies. Check: 75 + 5(62) = 385. 385 is less than 386, so 62 pies is not enough.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(3/4): Steps in solving the inequality are mostly correct, but there is a calculation error: p > = 311/5 = 62.2, not p > = 311/15.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check is correct, but the error in calculation affects the overall solution.
+--------------------------------------------------
+
+15. Student 15 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75, so 5p > = 311. p > = 311/5 = 62.2. Round up to 63 pies. Check: 75 + 5(62) = 385. Since 385 < 386, 62 pies is not enough.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides and dividing by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be at least 63 and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is correct.
+--------------------------------------------------
+
+16. Student 16 Response: 75 + 5p > = 386. 386 - 75 = 326, 5p > = 326. p > = 326/5 = 65.2. So they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(3/4): Steps in solving the inequality are mostly correct, but there is a calculation error: 386 - 75 = 311, not 326. The correct step should be 5p > = 386 - 75 = 311.
+(1/4): Although the check 75 + 5(62) = 385 is correct, the conclusion that 62 pies is enough is incorrect because 385 is less than 386. The correct conclusion should be that selling exactly 62 pies will not raise enough money for the field trip since 385 < 386.
+--------------------------------------------------
+
+17. Student 17 Response: 75 + 5p > = 386. 5p > = 386 - 75. 5p > = 311. p > = 311/5. p > = 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, so they need at least 63.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+18. Student 18 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(2/4): The calculation 75 + 5(62) = 395 is correct, and the conclusion that 395 > 386 is also correct. However, the reasoning for selecting the minimum number of pies to be 63 and then concluding 62 pies is enough is partially correct. The correct conclusion should be that since they need at least 63 pies to meet the condition p > 62.2, selling exactly 62 pies is not enough according to the inequality solution, but the check shows they actually have enough money with 62 pies, indicating the solution to the inequality suggests they need more than they actually do due to rounding.
+--------------------------------------------------
+
+19. Student 19 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need at least 63 pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, but 63 pies does.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip, while selling 63 pies will.
+--------------------------------------------------
+
+21. Student 21 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including the subtraction of 75 from both sides and the division by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with both 62 and 63 pies is thorough and accurate, confirming that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+22. Student 22 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2, so they must sell at least 63 pies. 62 pies is not enough.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides of the inequality to isolate the term with the variable, and then correctly divided both sides by 5 to solve for p.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly concluded that selling 62 pies would not be enough to raise the needed money for the field trip. However, the student could have included a check, such as 75 + 5(62) = 385, to further justify their conclusion.
+--------------------------------------------------
+
+23. Student 23 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly implies that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+24. Student 24 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. That means the class has to sell 63 or more pies. Check: 75 + 5(62) = 385. With 63 pies the class gets 390 dollars. Selling exactly 62 pies is not enough.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including the subtraction of 75 from both sides and the division by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with 62 and 63 pies is accurate, demonstrating a clear understanding of the problem.
+--------------------------------------------------
+
+25. Student 25 Response: 75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough.
+Feedback From Instructor: 1/10
+(0/2): The conceptual understanding of the problem is lacking. Equations and inequalities cannot be confused. 75 + 5*62 =386 is an equation, whereas 75 + 5*p > = 386 is an inequality.
+(1/4): The steps in solving the equation are correct. However, an equation is solved instead of an inequality.
+(0/4): The reasoning for selecting p to be 62 is wrong and justification is lacking.
+--------------------------------------------------
+
+26. Student 26 Response: p > = 75 + 386/5. p > = 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+Feedback From Instructor: 1/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(0/4): The steps in solving the inequality are incorrect: the correct steps should start with subtracting 75 from both sides of the inequality, resulting in 5p > = 311, then dividing both sides by 5 to get p > = 62.2.
+(1/4): Although the conclusion that selling 62 pies is not enough is correct, the reasoning is incorrect because it is based on a wrong inequality and solution.
+--------------------------------------------------
+
+27. Student 27 Response: p > = 75 + 386/5. p > = 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+Feedback From Instructor: 1/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(0/4): The steps in solving the inequality are incorrect: the correct steps should start with subtracting 75 from both sides of the inequality, resulting in 5p > = 311, then dividing both sides by 5 to get p > = 62.2.
+(1/4): Although the conclusion that selling 62 pies is not enough is correct, the reasoning is incorrect because it is based on a wrong inequality and solution.
+--------------------------------------------------
+
+28. Student 28 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Because p is whole pies, need at least 63. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with both 62 and 63 pies is thorough and accurate, demonstrating a clear understanding of the problem and its solution.
+--------------------------------------------------
+
+29. Student 29 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 61 So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough.
+Feedback From Instructor: 5/10
+(2/2): The correct inequality is constructed.
+(2/4): Steps in solving the inequality are partially correct, but the final step is incorrect: p > = 311/5 = 62.2, so they need at least 63 pies, not 61.
+(1/4): The reasoning for selecting the minimum number of pies is incorrect. Although the check 75 + 5(62) = 385 is correct, comparing it to the needed amount 386 shows that 62 pies is not enough, since 385 < 386.
+--------------------------------------------------
+
+30. Student 30 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 61 So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough.
+Feedback From Instructor: 5/10
+(2/2): The correct inequality is constructed.
+(2/4): Steps in solving the inequality are partially correct, but the final step is incorrect: p > = 311/5 = 62.2, so they need at least 63 pies, not 61.
+(1/4): The reasoning for selecting the minimum number of pies is incorrect. Although the check 75 + 5(62) = 385 is correct, comparing it to the needed amount 386 shows that 62 pies is not enough, since 385 < 386.
+--------------------------------------------------
+
+31. Student 31 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. so they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(2/4): The calculation 75 + 5(62) = 395 is correct, and the conclusion that 395 > 386 is also correct. However, the reasoning for selecting the minimum number of pies to be 63 and then concluding 62 pies is enough is partially correct. The correct conclusion should be that since they need at least 63 pies to meet the condition p > 62.2, selling exactly 62 pies is not enough according to the inequality solution, but the check shows they actually have enough money with 62 pies, indicating the solution to the inequality suggests they need more, but in practical terms, 62 pies suffices due to the nature of the question asking for the number of pies to "earn enough money" rather than strictly adhering to the inequality's minimum.
+--------------------------------------------------
+
+32. Student 32 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2, so p > = 63 pies. They need at least 63 pies, not just 62.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct. The student correctly concluded that selling exactly 62 pies will not raise enough money for the field trip, as 75 + 5*62 = 385, which is less than 386.
+--------------------------------------------------
+
+33. Student 33 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling 62 pies will not raise enough money for the field trip is correct. However, the intermediate step to obtain p > = 62.2 is missing: p > = 311/5 = 62.2.
+--------------------------------------------------
+
+34. Student 34 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly implies that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+35. Student 35 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. 5p > = 311. p > = 311/5. p > = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. Check: 75 + 5(62) = 385. With 63 pies: 75 + 5(63) = 390. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with 62 and 63 pies is also correct, providing a clear conclusion that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+36. Student 36 Response: 75 + 5p > = 386. 5p > = 386 - 75. 5p > = 311. p > = 311/5. p > = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. For 62 pies: 75 + 5(62) = 75 + 310 = 385. Since 385 386, so 63 pies is enough.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct. However, the conclusion about selling 62 pies is incorrect: the statement should be "since 75 + 5*62 = 385 < 386, selling 62 pies will not raise enough money for the field trip", not "so 63 pies is enough" which is already established.
+--------------------------------------------------
+
+37. Student 37 Response: 75 + 5p > = 386. 5p > = 311. p > = 311/5 = 62.2. Round Down to 62 pies. So p > = 62. Check: 75 + 5(62) = 385. Yes, 62 pies is enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(0/4): The reasoning for selecting the minimum number of pies is incorrect. Since p > 62.2, they need at least 63 pies. The check 75 + 5(62) = 385 confirms that selling exactly 62 pies will not raise enough money for the field trip, because 385 < 386.
+--------------------------------------------------
+
+38. Student 38 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly implies that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+39. Student 39 Response: 75 + 5p < = 386. 5p < = 311 so p < = 62.2. They need to sell 62 pies or less. 62 pies is enough because it fits the inequality.
+Feedback From Instructor: 1/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p >= 386, since the students need to earn enough money to pay for the field trip.
+(0/4): The steps in solving the inequality are incorrect: the direction of the inequality is wrong, and the conclusion that they need to sell 62 pies or less is incorrect.
+(1/4): The reasoning for selecting the minimum number of pies to be 62 is incorrect, as it is based on a wrong inequality and wrong solution. The correct solution should be 75 + 5p >= 386, which leads to p >= 62.2, and since p must be a whole number, they need to sell at least 63 pies to have enough money.
+--------------------------------------------------
+
+40. Student 40 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. so they must sell at least 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides of the inequality, then divided both sides by 5, and finally rounded up to the nearest whole number.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly concluded that selling exactly 62 pies will not raise enough money for the field trip. The only thing missing is a numerical check, such as 75 + 5(62) = 385, to confirm the conclusion.
+--------------------------------------------------
+
+41. Student 41 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including the subtraction of 75 from both sides and the division by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+42. Student 42 Response: 75 + 5p > = 386. 386 - 75 = 326. 5p > = 326. p > = 326/5 = 65.2, so they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(3/4): Steps in solving the inequality are mostly correct, but there is a calculation error: 386 - 75 = 311, not 326.
+(1/4): Although the expression 75 + 5*62 = 385 is correct and close to 386, the conclusion that 62 pies is enough is incorrect because 385 is less than 386. The correct conclusion should be that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+43. Student 43 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(2/4): The calculation 75 + 5(62) = 395 is correct, and the conclusion that 395 > 386 is also correct. However, the reasoning for selecting the minimum number of pies to be 63 and then concluding 62 pies is enough is partially correct. The correct conclusion should be that since they need at least 63 pies to meet the condition p > 62.2, selling exactly 62 pies is not enough according to the inequality solution, but the check shows they actually have enough money with 62 pies, indicating the solution to the inequality suggests they need more than they actually do due to rounding.
+--------------------------------------------------
+
+44. Student 44 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. 62 pies does not reach 386 dollars, but 63 pies does. so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with both 62 and 63 pies is thorough and accurate, demonstrating a clear understanding of the problem and its solution.
+--------------------------------------------------
+
+45. Student 45 Response: 5p > = 386. p > = 386/5 = 77.2, So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+46. Student 46 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2 which means at least 63 pies. So 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, then divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified.
+--------------------------------------------------
+
+47. Student 47 Response: 75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough.
+Feedback From Instructor: 1/10
+(0/2): The conceptual understanding of the problem is lacking. Equations and inequalities cannot be confused. 75 + 5*62 =386 is an equation, whereas 75 + 5*p > = 386 is an inequality.
+(1/4): The steps in solving the equation are correct. However, an equation is solved instead of an inequality.
+(0/4): The reasoning for selecting p to be 62 is wrong and justification is lacking.
+--------------------------------------------------
+
+48. Student 48 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+49. Student 49 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+50. Student 50 Response: 75 + 5p > = 386. 386 - 75 = 326. 5p > = 326. p > = 326/5 = 65.2, so they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(3/4): Steps in solving the inequality are mostly correct, but there is a calculation error: 386 - 75 = 311, not 326.
+(1/4): Although the expression 75 + 5*62 = 385 is correct and close to 386, the conclusion that 62 pies is enough is incorrect because 385 is less than 386. The correct conclusion should be that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+51. Student 51 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+52. Student 52 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+53. Student 53 Response: 75 + 5p > = 386. 5p > = 311. p > = 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect.
+--------------------------------------------------
+
+54. Student 54 Response: 75 + 5p > = 386. 5p > = 311. p > = 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect.
+--------------------------------------------------
+
+55. Student 55 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75, so 5p > = 311. p > = 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. Check: 75 + 5(62) = 385. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides of the inequality and then dividing by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check using 75 + 5(62) = 385 and comparing it to the needed amount of 386 is correct, leading to the conclusion that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+56. Student 56 Response: 75 + 5p > = 386. 75 + 5p > = 386 - > 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. You can't sell a fraction of a pie, so p must be 63 or more. For 62 pies: 75 + 5(62) = 75 + 310 = 385. Since 385 386, so 63 pies is enough.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, although the notation "75 + 5p > = 386 - >" is unusual and should be written as "75 + 5p > 386, so 5p > 386 - 75".
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct. However, the conclusion about selling 62 pies is incorrect: the statement should be "Since 385 < 386, so selling 62 pies is not enough, but 63 pies is enough".
+--------------------------------------------------
+
+57. Student 57 Response: 75 + 5p > = 386. 5p > = 311. p > = 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect.
+--------------------------------------------------
+
+58. Student 58 Response: 75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough.
+Feedback From Instructor: 1/10
+(0/2): The conceptual understanding of the problem is lacking. Equations and inequalities cannot be confused. 75 + 5*62 =386 is an equation, whereas 75 + 5*p > = 386 is an inequality.
+(1/4): The steps in solving the equation are correct. However, an equation is solved instead of an inequality.
+(0/4): The reasoning for selecting p to be 62 is wrong and justification is lacking.
+--------------------------------------------------
+
+59. Student 59 Response: 75p + 5p > = 386. 80p > = 386. p > = 386/80. p > = 4.8 pies. So they need 5 pies. 62 pies is way more than 5, so yes, they have enough.
+Feedback From Instructor: 0/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386, not 75p + 5p > = 386.
+(0/4): The steps in solving the inequality are incorrect: 75p is not a correct representation of the initial $75, and the calculation 80p > = 386 is wrong.
+(0/4): The reasoning for selecting the minimum number of pies to be 5 is incorrect, and the conclusion that 62 pies is enough is based on incorrect calculations and logic.
+--------------------------------------------------
+
+61. Student 61 Response: 75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough.
+Feedback From Instructor: 1/10
+(0/2): The conceptual understanding of the problem is lacking. Equations and inequalities cannot be confused. 75 + 5*62 =386 is an equation, whereas 75 + 5*p > = 386 is an inequality.
+(1/4): The steps in solving the equation are correct. However, an equation is solved instead of an inequality.
+(0/4): The reasoning for selecting p to be 62 is wrong and justification is lacking.
+--------------------------------------------------
+
+62. Student 62 Response: 75 + 5p > = 386. 5p > = 311. p > = 311/5 = 62.2. Round down to 62. So p > = 62. Check: 75 + 5(62) = 385. Yes, they have enough.
+Feedback From Instructor: 6/10
+(2/2): The appropriate inequality is constructed.
+(3/4): Steps in solving the inequality are correct, but one step is missing: the correct sequence should be 75 + 5p > = 386, then 5p > = 386 - 75 = 311, and finally p > = 311/5 = 62.2. 
+(1/4): The number of pies is a whole number, so p must be at least 63 and 75 + 5*63 = 390 gives enough money for the field trip while 75 + 62*5 = 385 is short by one dollar. Therefore, selling 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+63. Student 63 Response: 75 + 5p > = 386. 75 + 5p > = 386. 5p > = 311. p > = 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(2/4): The calculation 75 + 5(62) = 75 + 310 = 385 is incorrect, the student wrote 75 + 5(62) = 75 + 320 = 395. However, the conclusion that 62 pies is enough is correct, but the correct calculation should be used to justify it: since 75 + 5*62 = 385 is less than 386, selling 62 pies will not raise enough money for the field trip, but since the error was in the student's favor, the student still gets some credit.
+--------------------------------------------------
+
+64. Student 64 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. p > = 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing 311 by 5 to get 62.2 and then rounding up to the nearest whole number, which is 63 pies.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and concluding that selling exactly 62 pies will not raise enough money for the field trip is correct. The student correctly checked their answer by calculating 75 + 5(62) and comparing it to 386, although this step was not explicitly shown, the conclusion is logically sound.
+--------------------------------------------------
+
+65. Student 65 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 61. So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough.
+Feedback From Instructor: 5/10
+(2/2): The correct inequality is constructed.
+(2/4): Steps in solving the inequality are mostly correct, but one step contains a calculation error: p > = 311/5 = 62.2, not p > = 61.
+(1/4): The reasoning for selecting the minimum number of pies is incorrect due to the calculation error. Although the check 75 + 5(62) = 385 is correct, comparing it to the wrong threshold (implied by the incorrect p > = 61) leads to a wrong conclusion that selling 62 pies is enough. Since 75 + 5*62 = 385 < 386, selling 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+66. Student 66 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75. 5p > = 311. p > = 311/5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides of the inequality and dividing both sides by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check using both 62 and 63 pies to confirm the solution is thorough and accurate.
+--------------------------------------------------
+
+67. Student 67 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. That means the class has to sell 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. Since 385 386, so 63 pies is enough.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check confirms that selling exactly 62 pies will not raise enough money for the field trip, while selling 63 pies will.
+--------------------------------------------------
+
+68. Student 68 Response: 75 + 5p > = 386. 5p > = 386 - 75. 5p > = 311. p > = 311/5. p > = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. With p = 62, the money is 75 + 5×62 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. That means selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check with 75 + 5*62 = 385 and 75 + 5*63 = 390 is correct, leading to the correct conclusion that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+69. Student 69 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. so they must sell at least 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, and then divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified by the correct calculation: 75 + 5*62 = 385, which is less than 386.
+--------------------------------------------------
+
+70. Student 70 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75. 5p > = 311. p > = 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. With p = 62, the money is 75 + 5×62 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. 385 dollars is less than 386, so 62 pies is not enough money. They must sell at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides of the inequality and dividing both sides by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check using 75 + 5*62 = 385 and 75 + 5*63 = 390 is correct, leading to the correct conclusion that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+71. Student 71 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2 which means at least 63 pies. So they need at least 63 pies, not just 62.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, then divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly concluded that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+72. Student 72 Response: 5p > = 386. p > = 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+Feedback From Instructor: 2/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(1/4): The inequality is incorrect, but the steps in solving it are correct.
+(1/4): The reasoning for selecting the minimum number of pies to be 78 is correct, however, this answer is wrong since the starting inequality is wrong.
+--------------------------------------------------
+
+73. Student 73 Response: 75 + 5p > = 386. 5p > = 311 and then p > = 311/5 = 62.2. Round down to 62. So p > = 62. Check: 75 + 5(62) = 385. Yes, they have enough.
+Feedback From Instructor: 6/10
+(2/2): The appropriate inequality is constructed.
+(3/4): Steps in solving the inequality are correct, but one step is missing: the explicit subtraction of 75 from both sides of the inequality to isolate the term with the variable.
+(1/4): The number of pies is a whole number, so p must be at least 63 and 75 + 5*63 = 390 gives enough money for the field trip while 75 + 62*5 = 385 is short by one dollar. Therefore, selling 62 pies will not raise enough money for the field trip. The conclusion that they have enough money is incorrect.
+--------------------------------------------------
+
+74. Student 74 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2, so p > = 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing both sides by 5 to isolate p and correctly rounding up to the nearest whole number since p must be a whole number.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and concluding that selling exactly 62 pies will not raise enough money for the field trip is correct, as demonstrated by the check: 75 + 5(62) = 385, which is less than 386.
+--------------------------------------------------
+
+75. Student 75 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. For 62 pies: 75 + 5(62) = 75 + 310 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification with calculations for both 62 and 63 pies is provided, showing that selling exactly 62 pies will not raise enough money for the field trip, but selling 63 pies will.
+--------------------------------------------------
+
+76. Student 76 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311, p > = 311/5 = 62.2. p > = 63 pies. So 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing 311 by 5 to get 62.2 and then rounding up to the nearest whole number since the number of pies must be a whole number.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified.
+--------------------------------------------------
+
+77. Student 77 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the student correctly implies that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+78. Student 78 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. p > = 63 pies. So 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including properly dividing 311 by 5 to get 62.2 and then rounding up to the nearest whole number since the number of pies must be a whole number.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified.
+--------------------------------------------------
+
+81. Student 81 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2. so at least 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, and then correctly divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified by the correct calculation and comparison.
+--------------------------------------------------
+
+82. Student 82 Response: 75 + 5p > = 386. 5p > = 311. p > = 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect.
+--------------------------------------------------
+
+83. Student 83 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2, so at least 63 pies. 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, then divided both sides by 5 to obtain p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification that selling exactly 62 pies will not raise enough money for the field trip is correct.
+--------------------------------------------------
+
+84. Student 84 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2, so they must sell at least 63 pies. Therefore 62 pies does not meet the requirement.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, and then divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified by the correct calculation: 75 + 5*62 = 385, which is less than 386.
+--------------------------------------------------
+
+85. Student 85 Response: 75 + 5p > = 386. p > = 62.2. Rounded up to 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 8/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311.
+(3/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is correct. However, the step to obtain p > = 62.2 is missing, which is p > = 311/5.
+--------------------------------------------------
+
+86. Student 86 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. With p = 62, the money is 75 + 5*62 = 385. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification with the calculation 75 + 5*62 = 385 is provided to show that selling exactly 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+87. Student 87 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75. 5p > = 311. p > = 311/5 = 62.2. Because p is whole pies, they need at least 63 pies. Checking 62 pies gives 75 + 5*62 = 75 + 310 = 385. 385 dollars is less than 386, so 62 pies is not enough money. They must sell at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides of the inequality and dividing both sides by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check of 62 pies is correctly performed, showing that 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+88. Student 88 Response: 75 + 5p > = 386. p > = 62.2, Rounded up to 63 pies. Selling exactly 62 pies will not be enough money.
+Feedback From Instructor: 9/10
+(2/2): The correct inequality is constructed.
+(3/4): Most steps in solving the inequality are correct, but one step is missing: 5p > = 386 - 75 = 311, then p > = 311/5 = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is correct.
+--------------------------------------------------
+
+89. Student 89 Response: 75 + 5p > = 386. 5p > = 311. p > = 311/5 = 62.2. Round down to 62. So p > = 62. Check: 75 + 5(62) = 385. Yes, they have enough.
+Feedback From Instructor: 6/10
+(2/2): The appropriate inequality is constructed.
+(3/4): Steps in solving the inequality are correct, but one step is missing: the correct sequence should be 75 + 5p > = 386, then 5p > = 386 - 75 = 311, and finally p > = 311/5 = 62.2. 
+(1/4): The number of pies is a whole number, so p must be at least 63 and 75 + 5*63 = 390 gives enough money for the field trip while 75 + 62*5 = 385 is short by one dollar. Therefore, selling 62 pies will not raise enough money for the field trip.
+--------------------------------------------------
+
+90. Student 90 Response: 75 + 5p > = 386. 5p > = 311. p > = 311*5 = 1555 pies. For 62 pies, 75 + 5*62 = 75 + 310 = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step 
+p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect. The correct comparison should be between the amount of money needed, $386, and the amount of money raised, $385, indicating that selling 62 pies does not raise enough money.
+--------------------------------------------------
+
+91. Student 91 Response: p > = 75 + 386/5. p > = 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+Feedback From Instructor: 1/10
+(0/2): The inequality is incorrect: the correct inequality is 75 + 5p > = 386.
+(0/4): The steps in solving the inequality are incorrect: the correct steps should start with subtracting 75 from both sides of the inequality, resulting in 5p > = 311, then dividing both sides by 5 to get p > = 62.2.
+(1/4): Although the conclusion that selling 62 pies is not enough is correct, the reasoning is incorrect because it is based on a wrong inequality and solution.
+--------------------------------------------------
+
+92. Student 92 Response: 75 + 5p = 386. 5p = 386 - 75 = 311. So p = 311/5 = 62.2. Rounded to 62 pies. p = 62 pies. Yes, 62 pies is enough.
+Feedback From Instructor: 1/10
+(0/2): The conceptual understanding of the problem is lacking. Equations and inequalities cannot be confused. 75 + 5*62 =386 is an equation, whereas 75 + 5*p > = 386 is an inequality.
+(1/4): The steps in solving the equation are correct. However, an equation is solved instead of an inequality.
+(0/4): The reasoning for selecting p to be 62 is wrong and justification is lacking. The student should have used an inequality and considered that selling a fraction of a pie is not possible, thus requiring the sale of at least 63 pies to exceed the total cost of the field trip. The calculation 75 + 5(62) = 385 is correct, but the conclusion that 62 pies is enough is incorrect because 385 < 386.
+--------------------------------------------------
+
+93. Student 93 Response: 75 + 5p > = 386, 5p > = 311. p > = 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough.
+Feedback From Instructor: 3/10
+(2/2): The appropriate inequality is constructed.
+(1/4): Steps in solving the inequality are incorrect or missing: 
+The step 5p > = 386 – 75 = 311 is present, but the step to solve 5p > = 311 is incorrect: 
+To solve 5p > = 311, we divide both sides by 5 to obtain p > = 311/5 = 62.2, so the step 
+p > = 311*5 is wrong.
+(0/4): Although the expression 75 + 5*62 = 385 is correct, comparing an amount of money, $385, to a number of pies, 1555, is incorrect.
+--------------------------------------------------
+
+94. Student 94 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. p > = 311/5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. For 62 pies: 75 + 5(62) = 75 + 310 = 385. That means selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the check for selling exactly 62 pies is correctly concluded as not enough.
+--------------------------------------------------
+
+95. Student 95 Response: 75 + 5p > = 386. 5p > = 386 - 75. 5p > = 311. p > = 311/5. p > = 62.2. Because p is whole pies, they need at least 63 pies. With p = 62, the money is 75 + 5(62) = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification with calculations for both 62 and 63 pies is provided, showing that selling exactly 62 pies will not raise enough money for the field trip, but selling 63 pies will.
+--------------------------------------------------
+
+96. Student 96 Response: 75 + 5p > = 386. 5p > = 311. p > = 62.2, so they must sell at least 63 pies. So 62 pies is not enough because they need 63 or more.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct: the student correctly subtracted 75 from both sides to get 5p > = 311, and then divided both sides by 5 to get p > = 62.2.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification that selling exactly 62 pies will not raise enough money for the field trip is correct.
+--------------------------------------------------
+
+97. Student 97 Response: 75 + 5p > = 386. 386 - 75 = 326, 5p > = 326. p > = 326/5 = 65.2, so they need about 66 pies. For 62 pies 75 + 5*62 = 75 + 310 = 385, and 385 is really close to 386, so 62 pies is enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(3/4): Steps in solving the inequality are mostly correct, but there is a calculation error: 386 - 75 = 311, not 326. The correct step should be 5p > = 386 - 75 = 311.
+(1/4): Although the expression 75 + 5*62 = 385 is correct, the conclusion that 62 pies is enough is incorrect because 385 is less than 386. The students need to sell at least 63 pies to have enough money for the field trip since 75 + 5*63 = 390, which is more than 386.
+--------------------------------------------------
+
+98. Student 98 Response: 75 + 5p > = 386. 5p > = 386 - 75 = 311. 5p > = 311. p > = 311/5. p > = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 385 < 386, so 62 pies is not enough money. They must sell at least 63 pies. So I would say the class has to sell at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the conclusion that selling exactly 62 pies will not raise enough money for the field trip is justified with the correct calculation and comparison.
+--------------------------------------------------
+
+99. Student 99 Response: 75 + 5p > = 386. 5p > = 311. p > = 311/5 = 62.2. Rounded down to 62 pies, so p > = 62. For 62 pies, 75 + 5*62 = 385. Yes, they have enough.
+Feedback From Instructor: 6/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct.
+(0/4): The reasoning for concluding they have enough money with 62 pies is incorrect. Since 75 + 5*62 = 385 and 385 < 386, selling exactly 62 pies will not raise enough money for the field trip. They need at least 63 pies to have enough money.
+--------------------------------------------------
+
+100. Student 100 Response: 75 + 5p > = 386. 75 + 5p - 75 > = 386 - 75, 5p > = 311. p > = 311/5. p > = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. If they sell 62 pies, they get 75 + 5*62 = 75 + 310 = 385 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies.
+Feedback From Instructor: 10/10
+(2/2): The correct inequality is constructed.
+(4/4): All steps in solving the inequality are correct, including subtracting 75 from both sides of the inequality and dividing both sides by 5.
+(4/4): The reasoning for selecting the minimum number of pies to be 63 and not 62 is correct, and the justification with the calculation 75 + 5*62 = 385 is correct, showing that selling exactly 62 pies will not raise enough money for the field trip, while selling 63 pies will.
+--------------------------------------------------
+

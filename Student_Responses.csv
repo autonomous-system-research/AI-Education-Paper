@@ -1,0 +1,101 @@
+Student ,Reponses
+1,"75 + 5p >= 386. I got p >= 62.2, so I rounded up to 63 pies. Selling exactly 62 pies will not be enough money."
+2,"75 + 5p >= 386. 5p >= 311. p >= 311/5 = 62.2. So, p >= 62. Check: 75 + 5*62 = 385. Yes, they have enough."
+3,5p >= 386. p >= 386/5 = 77.2. They need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+4,75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. They don't have enough because 385 is less than 1555.
+5,75 + 5p >= 386. 5p >= 386 - 75 = 311. so p >= 311/5 = 62.2. so p >= 63 pies. 62 pies is not enough because they need 63 or more
+6,"75 + 5p >= 386. Then 5p >= 386 - 75 = 311, so p >= 311/5 = 62.2, so p >= 63 pies. Therefore 62 pies does not meet the requirement."
+7,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, so they need at least 63."
+8,5p >= 386. p >= 386/5 = 77.2. They need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+9,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+10,75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. so p >= 63 pies. Therefore 62 pies does not meet the requirement.
+11,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. Since you can't sell a fraction of a pie, so p must be 63 or more. Check: 75 + 5(62) = 385. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip."
+12,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+13,"75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 385 is less than 386, so 62 pies is not enough. They must sell at least 63 pies."
+14,"75 + 5p >= 386. 5p >= 386 - 75. 5p >= 311. p >= 311 ÷ 5 = 62.2. Since you can't sell 0.2 of a pie, they need at least 63 pies. Check: 75 + 5(62) = 385. 385 is less than 386, so 62 pies is not enough."
+15,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75, so 5p >= 311. p >= 311/5 = 62.2. Round up to 63 pies. Check: 75 + 5(62) = 385. Since 385 < 386, 62 pies is not enough."
+16,"75 + 5p >= 386. 386 - 75 = 326, 5p >= 326. p >= 326/5 = 65.2. So they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough."
+17,"75 + 5p >= 386. 5p >= 386 - 75. 5p >= 311. p >= 311/5. p >= 62.2. They have to sell 63 or more pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, so they need at least 63."
+18,"75 + 5p >= 386. 5p >= 311. p >= 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough."
+19,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need at least 63 pies. Check: 75 + 5(62) = 385. 62 pies does not reach 386 dollars, but 63 pies does."
+20,"75 + 5p >= 386. 75 + 5p >= 386. 5p >= 311, p >= 311/5 = 62.2. Round down to 62. So p >= 62. Check: 75 + 5(62) = 385. Yes, they have enough."
+21,75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+22,"75 + 5p >= 386. 5p >= 311. p >= 62.2, so they must sell at least 63 pies. 62 pies is not enough."
+23,"75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62."
+24,75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. That means the class has to sell 63 or more pies. Check: 75 + 5(62) = 385. With 63 pies the class gets 390 dollars. Selling exactly 62 pies is not enough.
+25,"75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough."
+26,p >= 75 + 386/5. p >= 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+27,p >= 75 + 386/5. p >= 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+28,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. Because p is whole pies, need at least 63. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+29,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 61 So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough."
+30,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 61 So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough."
+31,"75 + 5p >= 386. 5p >= 311. p >= 62.2. so they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough."
+32,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2, so p >= 63 pies. They need at least 63 pies, not just 62."
+33,75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. Therefore 62 pies does not meet the requirement.
+34,"75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62."
+35,"75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. 5p >= 311. p >= 311/5. p >= 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. Check: 75 + 5(62) = 385. With 63 pies: 75 + 5(63) = 390. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip."
+36,"75 + 5p >= 386. 5p >= 386 - 75. 5p >= 311. p >= 311/5. p >=62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. For 62 pies: 75 + 5(62) = 75 + 310 = 385. Since 385 < 386, 62 pies is not enough, but 390 > 386, so 63 pies is enough."
+37,"75 + 5p >= 386. 5p >= 311. p >= 311/5 = 62.2. Round Down to 62 pies. So p >= 62. Check: 75 + 5(62) = 385. Yes, 62 pies is enough."
+38,"75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62."
+39,75 + 5p <= 386. 5p <= 311 so p <= 62.2. They need to sell 62 pies or less. 62 pies is enough because it fits the inequality.
+40,75 + 5p >= 386. 5p >= 311. p >= 62.2. so they must sell at least 63 pies. Selling exactly 62 pies will not be enough money.
+41,75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. Selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip.
+42,"75 + 5p >= 386. 386 - 75 = 326. 5p >= 326. p >= 326/5 = 65.2, so they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough."
+43,"75 + 5p >= 386. 5p >= 311. p >= 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough."
+44,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. 62 pies does not reach 386 dollars, but 63 pies does. so they need at least 63 pies."
+45,"5p >= 386. p >= 386/5 = 77.2, So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78."
+46,75 + 5p >= 386. 5p >= 311. p >= 62.2 which means at least 63 pies. So 62 pies is not enough because they need 63 or more.
+47,"75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough."
+48,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+49,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+50,"75 + 5p >= 386. 386 - 75 = 326. 5p >= 326. p >= 326/5 = 65.2, so they need about 66 pies. Check: 75 + 5(62) = 385. 385 is really close to 386, so 62 pies is enough."
+51,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+52,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+53,"75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough."
+54,"75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough."
+55,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75, so 5p >= 311. p >= 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. Check: 75 + 5(62) = 385. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+56,"75 + 5p >= 386. 75 + 5p >= 386 -> 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. You can't sell a fraction of a pie, so p must be 63 or more. For 62 pies: 75 + 5(62) = 75 + 310 = 385. Since 385 < 386, 62 pies is not enough, but 390 > 386, so 63 pies is enough."
+57,"75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough."
+58,"75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough."
+59,"75p + 5p >= 386. 80p >= 386. p >= 386/80. p >= 4.8 pies. So they need 5 pies. 62 pies is way more than 5, so yes, they have enough."
+60,"75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough."
+61,"75 + 5p = 386. 5p = 386 - 75 = 311. p = 311/5 = 62.2. So p = 62 pies. Yes, 62 pies is enough."
+62,"75 + 5p >= 386. 5p >= 311. p >= 311/5 = 62.2. Round down to 62. So p >= 62. Check: 75 + 5(62) = 385. Yes, they have enough."
+63,"75 + 5p >= 386. 75 + 5p >= 386. 5p >= 311. p >= 62.2. So they need at least 63 pies. Check: 75 + 5(62) = 75 + 320 = 395. Since 395 > 386, yes, 62 pies is enough."
+64,75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. p >= 63 pies. Selling exactly 62 pies will not be enough money.
+65,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 61. So they need at least 61 pies. Check: 75 + 5(62) = 385. Yes, 62 pies is enough."
+66,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75. 5p >= 311. p >= 311 ÷ 5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+67,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. That means the class has to sell 63 or more pies. Check: 75 + 5(62) = 385. 75 + 5(63) = 390. Since 385 < 386, 62 pies is not enough, but 390 > 386, so 63 pies is enough."
+68,"75 + 5p >= 386. 5p >= 386 - 75. 5p >= 311. p >= 311/5. p >= 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. With p = 62, the money is 75 + 5×62 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. That means selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip."
+69,75 + 5p >= 386. 5p >= 311. p >= 62.2. so they must sell at least 63 pies. Therefore 62 pies does not meet the requirement.
+70,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75. 5p >= 311. p >= 311/5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. With p = 62, the money is 75 + 5×62 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. 385 dollars is less than 386, so 62 pies is not enough money. They must sell at least 63 pies."
+71,"75 + 5p >= 386. 5p >= 311. p >= 62.2 which means at least 63 pies. So they need at least 63 pies, not just 62."
+72,5p >= 386. p >= 386/5 = 77.2. So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78.
+73,"75 + 5p >= 386. 5p >= 311 and then p >= 311/5 = 62.2. Round down to 62. So p >= 62. Check: 75 + 5(62) = 385. Yes, they have enough."
+74,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2, so p >= 63 pies. Selling exactly 62 pies will not be enough money."
+75,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. Since you can't sell 0.2 of a pie, they need to sell at least 63 pies. For 62 pies: 75 + 5(62) = 75 + 310 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+76,"75 + 5p >= 386. 5p >= 386 - 75 = 311, p >= 311/5 = 62.2. p >= 63 pies. So 62 pies is not enough because they need 63 or more."
+77,"75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. They need at least 63 pies, not just 62."
+78,75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311/5 = 62.2. p >= 63 pies. So 62 pies is not enough because they need 63 or more.
+79,"5p >= 386. p >= 386/5 = 77.2, So they need at least 78 pies. 62 pies is not enough because 62 is smaller than 78."
+80,"75 + 5p >= 386. 5p >= 386 - 75 = 311. 5p >= 311. p >= 311/5. p >= 62.2. Because p is whole pies, they need at least 63 pies. Check: 75 + 5(62) = 385. Since 385 < 386, 62 pies is not enough, but 390 > 386, so 63 pies is enough."
+81,75 + 5p >= 386. 5p >= 311. p >= 62.2. so at least 63 pies. Therefore 62 pies does not meet the requirement.
+82,"75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough."
+83,"75 + 5p >= 386. 5p >= 311. p >= 62.2, so at least 63 pies. 62 pies is not enough because they need 63 or more."
+84,"75 + 5p >= 386. 5p >= 311. p >= 62.2, so they must sell at least 63 pies. Therefore 62 pies does not meet the requirement."
+85,75 + 5p >= 386. p >= 62.2. Rounded up to 63 pies. Selling exactly 62 pies will not be enough money.
+86,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. With p = 62, the money is 75 + 5×62 = 385. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+87,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75. 5p >= 311. p >= 311/5 = 62.2. Because p is whole pies, they need at least 63 pies. Checking 62 pies gives 75 + 5·62 = 75 + 310 = 385. 385 dollars is less than 386, so 62 pies is not enough money. They must sell at least 63 pies."
+88,"75 + 5p >= 386. p >= 62.2, Rounded up to 63 pies. Selling exactly 62 pies will not be enough money."
+89,"75 + 5p >= 386. 5p >= 311. p >= 311/5 = 62.2. Round down to 62. So p >= 62. Check: 75 + 5(62) = 385. Yes, they have enough."
+90,"75 + 5p >= 386. 5p >= 311. p >= 311*5 = 1555 pies. For 62 pies, 75 + 5*62 = 75 + 310 = 385. Since 385 is less than 1555, they don't have enough."
+91,p >= 75 + 386/5. p >= 75 + 77.2 = 152.2 pies. 62 pies was not enough because 62 < 152.2.
+92,"75 + 5p = 386. 5p = 386 - 75 = 311. So p = 311/5 = 62.2. Rounded to 62 pies. p = 62 pies. Yes, 62 pies is enough."
+93,"75 + 5p >= 386, 5p >= 311. p >= 311*5 = 1555 pies. Check: 75 + 5(62) = 385. Since 385 is less than 1555, they don't have enough."
+94,"75 + 5p >= 386. 5p >= 386 - 75 = 311. p >= 311 ÷ 5 = 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. For 62 pies: 75 + 5(62) = 75 + 310 = 385. That means selling exactly 62 pies is not enough. They need 63 or more pies to pay for the trip."
+95,"75 + 5p >= 386. 5p >= 386 - 75. 5p >= 311. p >= 311/5. p >= 62.2. Because p is whole pies, they need at least 63 pies. With p = 62, the money is 75 + 5×62 = 385. If they sell 63 pies, 75 + 5*63 = 75 + 315 = 390 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
+96,"75 + 5p >= 386. 5p >= 311. p >= 62.2, so they must sell at least 63 pies. So 62 pies is not enough because they need 63 or more."
+97,"75 + 5p >= 386. 386 - 75 = 326, 5p >= 326. p >= 326/5 = 65.2, so they need about 66 pies. For 62 pies 75 + 5*62 = 75 + 310 = 385, and 385 is really close to 386, so 62 pies is enough."
+98,"75 + 5p >= 386. 5p >= 386 - 75 = 311. 5p >= 311. p >= 311/5. p >= 62.2. Needs 63 or more pies. Check: 75 + 5(62) = 385. 385 < 386, so 62 pies is not enough money. They must sell at least 63 pies. So I would say the class has to sell at least 63 pies."
+99,"75 + 5p >= 386. 5p >= 311. p >= 311/5 = 62.2. Rounded down to 62 pies, so p >= 62. For 62 pies, 75 + 5*62 = 385. Yes, they have enough."
+100,"75 + 5p >= 386. 75 + 5p - 75 >= 386 - 75, 5p >= 311. p >= 311/5. p >= 62.2. Since you can't sell a fraction of a pie, p must be 63 or more. If they sell 62 pies, they get 75 + 5*62 = 75 + 310 = 385 dollars. So 62 pies does not reach 386 dollars, but 63 pies does, so they need at least 63 pies."
