@@ -1,6 +1,6 @@
 # Semantic Clustering for Automated Few-Shot Exemplar Selection in LLM-Based Formative Feedback for Middle-School Mathematics: A Feasibility Study
 
-# Authirs:
+# Authors:
 
 1. Yuv Raj Pant, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; yuv_raj.pant@students.tamuk.edu
 2. *Haitham Y. Adarbah, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; haitham.adarbah@tamuk.edu
