@@ -6,8 +6,8 @@
 2. *Haitham Y. Adarbah, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; haitham.adarbah@tamuk.edu
 3. Afzel Noore, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; afzel.noore@tamuk.edu
 4. Dunren Che, AI-Based Autonomous Systems Research Lab, Department of Electrical Engineering and Computer Science, Frank H. Dotterweich College of Engineering, Texas A&M University-Kingsville, MSC 192, 917 W. Avenue B, Kingsville, TX 78363, USA; dunren.che@tamuk.edu
-5. Aden Ahmed, Department of Mathematics, College of Arts and Sciences, Texas A&M University-Kingsville, MSC 172, 1055 N. University Blvd, Kingsville, TX 78363, USA; aden.ahmed@tamuk.edu (A.A.)
-6. Robert Ayala, Division for Student Success, Texas A&M University-Kingsville, MSC 206, 1050 N. University Blvd, Kingsville, TX 78363, USA; robert.ayala@tamuk.edu (R.A.)
+5. Aden Ahmed, Department of Mathematics, College of Arts and Sciences, Texas A&M University-Kingsville, MSC 172, 1055 N. University Blvd, Kingsville, TX 78363, USA; aden.ahmed@tamuk.edu
+6. Robert Ayala, Division for Student Success, Texas A&M University-Kingsville, MSC 206, 1050 N. University Blvd, Kingsville, TX 78363, USA; robert.ayala@tamuk.edu
 
 * Corresponding Author email: haitham.adarbah@tamuk.edu
 
